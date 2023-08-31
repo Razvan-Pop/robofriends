@@ -1,0 +1,12 @@
+@font-face{
+	font-family: 'Patchy Robots';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Patchy Robots'), url('patchyrobots.otf') format('otf');
+}
+
+h1{
+	font-family: 'Patchy Robots';
+	font-weight: 300;
+	color: #11FFFF;
+}
